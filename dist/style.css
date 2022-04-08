@@ -1,0 +1,58 @@
+.hero-banner{
+    background: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(../img/banner.png);
+    background-position: center;
+    background-size: cover;
+}
+.h-90vh{
+    height: 100vh;
+}
+
+.london{
+    background-image: url("../img/london.png");
+    height: 90vh;
+}
+.london p{
+    height: 90vh;
+    width: 100%;
+}
+.london p:hover{
+    transition-duration: 1000ms;
+}
+
+.washington{
+    background-image: url("../img/washington.png");
+    height: 90vh;
+}
+.washington p{
+    height: 90vh;
+    width: 100%;
+}
+.washington p:hover{
+    transition-duration: 1000ms;
+}
+
+.washington{
+
+}
+
+.newyork{
+    background-image: url("../img/newyork.png");
+    height: 90vh;
+}
+
+.newyork p{
+    height: 90vh;
+    width: 100%;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.course{
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(../img/banner2.jpg);
+    height: 90vh;
+    width: 90%;
+}
+.about-banner{
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(../img/background.jpg);
+
+}
