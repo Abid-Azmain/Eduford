@@ -1,2 +1,2 @@
 # Eduford
-Eduford is a Sample Lorem Website
+Eduford is Created By the Hossain Abid Azmain
